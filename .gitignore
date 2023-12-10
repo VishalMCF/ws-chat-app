@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+
+# OS and editor-specific files
+.DS_Store
+Thumbs.db
+.cache
+.idea
+*.swp

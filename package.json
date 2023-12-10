@@ -1,0 +1,27 @@
+{
+  "name": "chat-app-ws",
+  "version": "1.0.0",
+  "description": "chat app introduction using ws javascript package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalMCF/ws-chat-app.git"
+  },
+  "keywords": [
+    "chat-app-ws"
+  ],
+  "author": "VishalMCF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishalMCF/ws-chat-app/issues"
+  },
+  "homepage": "https://github.com/VishalMCF/ws-chat-app#readme",
+  "dependencies": {
+    "serve-handler": "^6.1.5",
+    "ws": "^8.15.0"
+  },
+  "type": "module"
+}
